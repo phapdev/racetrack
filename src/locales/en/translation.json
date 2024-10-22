@@ -1,0 +1,101 @@
+{
+    "welcome": "Welcome to the Racetrack game!",
+    "play-game": "Play game",
+    "tutorial-video": "Video tutorial on how to play the game",
+    "login-required": "You need to log in on OpenEdu!",
+    "login": "Log in",
+    "course-incomplete": "You have not completed the course. Please complete the course to play the game.",
+    "desktop-recommendation": "Please play on a computer for the best experience.",
+    "apology": "We apologize for the inconvenience!",
+    "notification": "Notification",
+    "leaderboard-title": "RACETRACK LEADERBOARD",
+    "no-leaderboard": "No Racetrack Leaderboard available yet",
+    "back": "Go back",
+    "game-guide": {
+        "title": "Avail Racetrack Guide",
+        "game-info": {
+            "title": "Game Information",
+            "prerequisite": "Before participating in Avail Racetrack, you need to review the courses on OpenEdu.",
+            "daily-attempts": "Players will have 3 attempts per day. The game duration lasts from 7 to 8 minutes",
+            "game-structure": "The game will have 4 rounds. Each round will have 5 questions randomly selected from the question set. The time to answer each question is 25 seconds. When time's up, it will automatically move to the next question.",
+            "question-attributes": "Each question will have 2 attributes: dealing damage and healing. The amount of damage dealt / health restored will be based on the difficulty level of each question.",
+            "health-system": "The starting health of the player and monster on the first day is 25. On subsequent days, the monster's health increases by 5 each day."
+        },
+        "scoring-rules": {
+            "title": "Scoring Rules",
+            "question-points": {
+                "title": "Points awarded per question:",
+                "level1": "Level 1: 5 points",
+                "level2": "Level 2: 10 points",
+                "level3": "Level 3: 15 points",
+                "level4": "Level 4: 20 points",
+                "level5": "Level 5: 25 points",
+                "level6": "Level 6: 30 points",
+                "wrong-answer": "Wrong answers do not deduct points",
+                "hero-death": "Hero runs out of health: -400 points"
+            },
+            "time-bonus": {
+                "title": "Time bonus points:",
+                "fast": "0-10 seconds: +15 points",
+                "medium": "10-15 seconds: +5 points"
+            },
+            "streak-bonus": {
+                "title": "Winning streak bonus points:",
+                "consecutive": "Each consecutive correct answer: +5 points",
+                "perfect": "Perfect score (all correct in one phase): +100 points"
+            },
+            "attempt-bonus": {
+                "title": "Attempt bonus points:",
+                "first": "Defeating the monster on the first attempt: +450 points",
+                "second": "Defeating the monster on the second attempt: +150 points"
+            },
+            "boss-bonus": {
+                "title": "Boss defeat bonus points:",
+                "daily": "Defeating the boss in a day: +50 points"
+            }
+        },
+        "reward": {
+            "title": "Rewards",
+            "description": "Rewards are given based on the leaderboard through the total points calculated according to the rules.",
+            "prizes": [
+                {
+                    "rank": "First prize",
+                    "amount": "8 million VND"
+                },
+                {
+                    "rank": "Second prize",
+                    "amount": "5 million VND"
+                },
+                {
+                    "rank": "Third prize",
+                    "amount": "3 million VND"
+                },
+                {
+                    "rank": "Fourth prize",
+                    "amount": "2 million VND"
+                },
+                {
+                    "rank": "Fifth prize",
+                    "amount": "2 million VND"
+                }
+            ]
+        }
+    },
+    "daily-task": {
+        "title": "Daily Task",
+        "description": "Daily tasks will be updated at 00:00 every day. Tasks will be updated at 00:00 every day.",
+        "check": "Check",
+        "completed": "Task completed!",
+        "error": "An error occurred. Please try again later.",
+        "input-label": "Enter your Twitter username:",
+        "loading": "Loading...",
+        "task-1": "Follow @Avail_Vietnam on Twitter",
+        "task-1-desc": "You need to follow @Avail_Vietnam on Twitter to complete this task",
+        "task-2": "Like the tweet of @Avail_Vietnam on Twitter",
+        "task-2-desc": "You need to like the tweet of @Avail_Vietnam on Twitter to complete this task",
+        "task-3": "Repost the tweet of @Avail_Vietnam on Twitter",
+        "task-3-desc": "You need to repost the tweet of @Avail_Vietnam on Twitter to complete this task",
+        "task-4": "Comment on the tweet of @Avail_Vietnam on Twitter",
+        "task-4-desc": "You need to comment on the tweet of @Avail_Vietnam on Twitter to complete this task"
+    }
+}

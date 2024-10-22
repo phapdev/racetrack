@@ -1,0 +1,101 @@
+{
+    "welcome": "Chào mừng đến game Racetrack!",
+    "play-game": "Chơi game",
+    "tutorial-video": "Video hướng dẫn cách chơi game",
+    "login-required": "Bạn cần đăng nhập trên OpenEdu nhé !",
+    "login": "Đăng nhập",
+    "course-incomplete": "Bạn chưa hoàn thành khóa học. Hãy hoàn thành khóa học để chơi game.",
+    "desktop-recommendation": "Hãy chơi trên máy tính để có trải nghiệm tốt nhất nhé.",
+    "apology": "Xin lỗi các bạn nhiều nhen!",
+    "notification": "Thông báo",
+    "leaderboard-title": "BẢNG XẾP HẠNG RACETRACK",
+    "no-leaderboard": "Chưa có Bảng Xếp Hạng Racetrack",
+    "back": "Quay lại",
+    "game-guide": {
+        "title": "Hướng dẫn Avail Racetrack",
+        "game-info": {
+            "title": "Thông tin trò chơi",
+            "prerequisite": "Trước khi tham gia Avail Racetrack, bạn cần ôn tập lại các khoá học ở OpenEdu.",
+            "daily-attempts": "Người chơi sẽ có 3 lượt chơi mỗi ngày. Thời lượng chơi game kéo dài từ 7 - 8 phút",
+            "game-structure": "Trò chơi sẽ có 4 vòng. Mỗi vòng chơi sẽ có 5 câu hỏi được lấy ngẫu nhiên trong bộ đề. Thời gian trả lời mỗi câu hỏi là 25s. Hết giờ sẽ tự động chuyển qua câu hỏi mới.",
+            "question-attributes": "Mỗi câu hỏi sẽ có 2 thuộc tính là gây sát thương và hồi máu. Số lượng gây sát thương / hồi máu sẽ dựa vào con số độ khó mỗi câu hỏi.",
+            "health-system": "Máu bắt đầu của người chơi và quái ngày đầu tiên là 25. Ngày tiếp theo thì số máu của quái tăng lên 5 mỗi ngày."
+        },
+        "scoring-rules": {
+            "title": "Luật tính điểm",
+            "question-points": {
+                "title": "Điểm thưởng theo câu hỏi:",
+                "level1": "Level 1: 5 điểm",
+                "level2": "Level 2: 10 điểm",
+                "level3": "Level 3: 15 điểm",
+                "level4": "Level 4: 20 điểm",
+                "level5": "Level 5: 25 điểm",
+                "level6": "Level 6: 30 điểm",
+                "wrong-answer": "Trả lời sai không bị trừ điểm",
+                "hero-death": "Hero hết máu: -400 điểm"
+            },
+            "time-bonus": {
+                "title": "Điểm thưởng theo thời gian:",
+                "fast": "0-10 giây: +15 điểm",
+                "medium": "10-15 giây: +5 điểm"
+            },
+            "streak-bonus": {
+                "title": "Điểm thưởng theo chuỗi thắng:",
+                "consecutive": "Mỗi câu đúng liên tiếp: +5 điểm",
+                "perfect": "Điểm hoàn hảo (đúng hết trong một phase): +100 điểm"
+            },
+            "attempt-bonus": {
+                "title": "Điểm thưởng theo lượt:",
+                "first": "Giết quái lượt đầu: +450 điểm",
+                "second": "Giết quái lượt hai: +150 điểm"
+            },
+            "boss-bonus": {
+                "title": "Điểm thưởng đánh quái:",
+                "daily": "Giết boss trong ngày: +50 điểm"
+            }
+        },
+        "reward": {
+            "title": "Phần thưởng",
+            "description": "Phần thưởng được trao dựa trên bảng thành tích thông qua tổng điểm được tính theo luật.",
+            "prizes": [
+                {
+                    "rank": "Giải nhất",
+                    "amount": "8 triệu VND"
+                },
+                {
+                    "rank": "Giải nhì",
+                    "amount": "5 triệu VND"
+                },
+                {
+                    "rank": "Giải ba",
+                    "amount": "3 triệu VND"
+                },
+                {
+                    "rank": "Giải tư",
+                    "amount": "2 triệu VND"
+                },
+                {
+                    "rank": "Giải năm",
+                    "amount": "2 triệu VND"
+                }
+            ]
+        }
+    },
+    "daily-task": {
+        "title": "Nhiệm vụ hàng ngày",
+        "description": "Nhiệm vụ hàng ngày sẽ được cập nhật vào 00:00 hàng ngày.",
+        "check": "Kiểm tra",
+        "completed": "Nhiệm vụ hoàn thành!",
+        "error": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
+        "input-label": "Nhập username Twitter của bạn:",
+        "loading": "Đang kiểm tra...",
+        "task-1": "Follow @Avail_Vietnam trên Twitter",
+        "task-1-desc": "Bạn cần follow @Avail_Vietnam trên Twitter để hoàn thành nhiệm vụ này",
+        "task-2": "Like bài tweet của @Avail_Vietnam trên Twitter",
+        "task-2-desc": "Bạn cần like bài tweet của @Avail_Vietnam trên Twitter để hoàn thành nhiệm vụ này",
+        "task-3": "Đăng lại bài tweet của @Avail_Vietnam trên Twitter",
+        "task-3-desc": "Bạn cần đăng lại bài tweet của @Avail_Vietnam trên Twitter để hoàn thành nhiệm vụ này",
+        "task-4": "Bình luận vào bài tweet của @Avail_Vietnam trên Twitter",
+        "task-4-desc": "Bạn cần bình luận vào bài tweet của @Avail_Vietnam trên Twitter để hoàn thành nhiệm vụ này"
+    }
+}
